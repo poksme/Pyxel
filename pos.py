@@ -1,0 +1,9 @@
+paletteX = 295
+paletteY = 54
+paletteW = 40
+paletteH = 144
+boardX = 78
+boardY = 54
+backgroundW = 330
+backgroundH = 484
+space = 50
