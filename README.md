@@ -7,8 +7,10 @@ A pixel art editor
 Pyxel is a *PyQt*, *GameBoy Color* inspired, pixel art editor.
 
 To launch **Pyxel** you will need:
--   Python
--   PyQt4
+-   [Python 2.7](http://www.python.org/download/)
+-   [PyQt4](http://www.riverbankcomputing.co.uk/software/pyqt/download)
 
 Usage:
->	python pyxel.py
+>	`python pyxel.py`
+
+Use the left and right arrows to change color scheme.
