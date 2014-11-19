@@ -14,3 +14,7 @@ Usage:
 >	`python pyxel.py`
 
 Use the left and right arrows to change color scheme.
+
+![Poster](/ressources/poster.png?raw=true "Pyxel Poster")
+
+[![ScreenShot](/ressources/screenshot.png?raw=true "Presentation Video")](http://youtu.be/HxapMNLzwuI)
